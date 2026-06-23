@@ -127,6 +127,9 @@ jupyter notebook EDA_project.ipynb
 
 ---
 
+## Project Link
+https://github.com/vishaaltijare/Atliq_hospitality_EDA/blob/main/EDA%20project.ipynb
+
 ## Author
 
 Vishaal
